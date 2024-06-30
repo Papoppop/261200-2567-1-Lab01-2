@@ -72,7 +72,7 @@
         plant.fillColor("dark_red");
         plant.shape("square");
 
-        //Rain
+        //Rain Effect
         main rain = new main();
         rain.up();
         rain.setPosition(25, 150);
